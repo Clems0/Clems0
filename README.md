@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since : 2021.<br><br>📚 I'm currently learning : Next.js 14, TypeScript avancé ou Go.<br><br>🎲 Fun fact : "Je passe plus de temps à choisir ma police d'écriture qu'à coder le CSS.".</p>
+<p align="left">✨ Creating bugs since : 2021.<br><br>📚 I'm currently learning : Next.js 16, TypeScript avancé ou Go.<br><br>🎲 Fun fact : "Je passe plus de temps à choisir ma police d'écriture qu'à coder le CSS.".</p>
 
 ###
 
