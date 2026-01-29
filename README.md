@@ -43,6 +43,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Clems0/Clems0/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **Clems0/Clems0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
